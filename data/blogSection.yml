@@ -1,0 +1,10 @@
+---
+enable: true
+topTitle: Blog
+title: >
+  ## Recent Article
+
+  Empty so far, this blog section will soon hold a series of article about
+  satelitte imagery processing.
+
+buttonTarget: blog

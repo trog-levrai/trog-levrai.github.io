@@ -1,0 +1,23 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  My engineering mantra is KISS (Keep It Simple, Stupid)
+content: >
+  ### Drive towards tackling real-world problems.
+
+  I am a software engineer with a strong focus on data science and have worked
+  on different topics such as mobility and remote sensing. During my university
+  years, I have spent a lot of time getting my hands on all kinds of
+  computer-related problems such as low level, cryptography, graph theory...
+  Among those, I decided to get a specialization in data science. In the past,
+  I've had the opportunity to work in France, Korea, and Germany, with very
+  diverse people in multicultural teams. I consider it one of my biggest
+  strengths.
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/about/kiss.png

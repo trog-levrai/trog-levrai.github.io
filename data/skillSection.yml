@@ -1,0 +1,22 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Why would you work with me ?
+
+  As mentioned above, I want to make things happen. To do that, I obviously can
+  count on my current skill set, but most of all on my love of continuous
+  learning. I will always strive to achieve more by looking for the right
+  solution, not the one that I already know.
+
+image: images/skill/tools.jpg
+
+skill:
+  - title: Python
+    percent: 90
+  - title: Kubernetes
+    percent: 50
+  - title: PyTorch
+    percent: 80
+  - title: Docker
+    percent: 65
