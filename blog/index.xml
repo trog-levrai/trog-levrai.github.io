@@ -5,6 +5,17 @@
     <link>https://trog.me/blog/</link>
     <description>Recent content in Recents Article on Ilan Dubois</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://trog.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Mar 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://trog.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recommendation Models at Scale</title>
+      <link>https://trog.me/blog/training-recommandations-at-scale/</link>
+      <pubDate>Fri, 26 Mar 2021 19:00:00 +0100</pubDate>
+      
+      <guid>https://trog.me/blog/training-recommandations-at-scale/</guid>
+      <description>Today we&amp;rsquo;ll talk about FAIRS&amp;rsquo;s paper: Understanding Training Efficiency of Deep Learning Recommendation Models at Scale.
+ Overview In this paper, Facebook researchers experiment on and analyze the training stage of large recommender systems. This goes from hardware consideration to embedding strategies. From data representation considerations to task distribution policy. Their goal is to be able to provide a more in-depth understanding of what can affect the speed and accuracy of a large production recommendation model.</description>
+    </item>
+    
   </channel>
 </rss>
