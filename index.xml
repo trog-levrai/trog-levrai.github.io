@@ -4,54 +4,51 @@
     <title>Ilan Dubois</title>
     <link>https://trog.me/</link>
     <description>Recent content on Ilan Dubois</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Mar 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://trog.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Mar 2021 19:00:00 +0100</lastBuildDate>
+    <atom:link href="https://trog.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recommendation Models at Scale</title>
       <link>https://trog.me/blog/training-recommandations-at-scale/</link>
       <pubDate>Fri, 26 Mar 2021 19:00:00 +0100</pubDate>
-      
       <guid>https://trog.me/blog/training-recommandations-at-scale/</guid>
-      <description>Today we&amp;rsquo;ll talk about FAIRS&amp;rsquo;s paper: Understanding Training Efficiency of Deep Learning Recommendation Models at Scale.
- Overview In this paper, Facebook researchers experiment on and analyze the training stage of large recommender systems. This goes from hardware consideration to embedding strategies. From data representation considerations to task distribution policy. Their goal is to be able to provide a more in-depth understanding of what can affect the speed and accuracy of a large production recommendation model.</description>
+      <description>Today we&amp;rsquo;ll talk about FAIRS&amp;rsquo;s paper: Understanding Training Efficiency of Deep Learning Recommendation Models at Scale.&#xA;Overview In this paper, Facebook researchers experiment on and analyze the training stage of large recommender systems. This goes from hardware consideration to embedding strategies. From data representation considerations to task distribution policy. Their goal is to be able to provide a more in-depth understanding of what can affect the speed and accuracy of a large production recommendation model.</description>
     </item>
-    
+    <item>
+      <title>Forest segmentation tutorial</title>
+      <link>https://trog.me/blog/sentinel/</link>
+      <pubDate>Wed, 02 Dec 2020 13:00:00 +0100</pubDate>
+      <guid>https://trog.me/blog/sentinel/</guid>
+      <description>Today we&amp;rsquo;ll see how to get started with satellite imagery in a Python notebook environment.&#xA;Overview The linked repository will guide you step by step on how to get started on working with Sentinel satellite images from a Notebook. You will learn:&#xA;How to access the data How to open images How to compute some usual features such as NDVI How to read into the pre-computed labels The link to the repository and instructions is here.</description>
+    </item>
     <item>
       <title>Recipe App Ux Study</title>
       <link>https://trog.me/portfolio/recipe-app-ux-study/</link>
       <pubDate>Wed, 12 Aug 2020 18:19:35 +0600</pubDate>
-      
       <guid>https://trog.me/portfolio/recipe-app-ux-study/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
-    
     <item>
       <title>UX Case Study for Agriculture App</title>
       <link>https://trog.me/portfolio/ux-case-study-for-agriculture-app/</link>
       <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
-      
       <guid>https://trog.me/portfolio/ux-case-study-for-agriculture-app/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
-    
     <item>
       <title>Event App Case Study</title>
       <link>https://trog.me/portfolio/event-app-case-study/</link>
       <pubDate>Wed, 12 Aug 2020 18:07:16 +0600</pubDate>
-      
       <guid>https://trog.me/portfolio/event-app-case-study/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
-    
     <item>
       <title>Case Study One</title>
       <link>https://trog.me/portfolio/case-study-one/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
       <guid>https://trog.me/portfolio/case-study-one/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
-    
   </channel>
 </rss>

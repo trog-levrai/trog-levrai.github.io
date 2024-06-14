@@ -4,7 +4,8 @@
     <title>Tags on Ilan Dubois</title>
     <link>https://trog.me/tags/</link>
     <description>Recent content in Tags on Ilan Dubois</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://trog.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://trog.me/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

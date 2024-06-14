@@ -4,7 +4,8 @@
     <title>Contact Me on Ilan Dubois</title>
     <link>https://trog.me/contact/</link>
     <description>Recent content in Contact Me on Ilan Dubois</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://trog.me/contact/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://trog.me/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
